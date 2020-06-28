@@ -1,0 +1,1 @@
+import "dist/clipboard.js"
